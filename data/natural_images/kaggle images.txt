@@ -1,0 +1,2 @@
+This folder would contain the full image repository from https://www.kaggle.com/datasets/prasunroy/natural-images as of 17/02/2026
+This has been excluded because of the size, these images are still displayed in the notebook, and most images used in the report are from the other folder, Kaggle images were mainly for testing. 
